@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SnackBar</string>
+    <string name="click_here_to_display_snackbar">Click here to display Snackbar</string>
+</resources>
